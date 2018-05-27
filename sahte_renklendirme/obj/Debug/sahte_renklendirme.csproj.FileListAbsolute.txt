@@ -1,0 +1,29 @@
+c:\users\dell\documents\visual studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csprojResolveAssemblyReference.cache
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csprojResolveAssemblyReference.cache
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.Form1.resources
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.Properties.Resources.resources
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csproj.GenerateResource.cache
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csproj.CoreCompileInputs.cache
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.exe.config
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.exe
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.pdb
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.exe
+C:\Users\cihat\Desktop\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.pdb
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.exe.config
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.exe
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\bin\Debug\sahte_renklendirme.pdb
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csprojResolveAssemblyReference.cache
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.Form1.resources
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.Properties.Resources.resources
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csproj.GenerateResource.cache
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.csproj.CoreCompileInputs.cache
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.exe
+C:\Users\cihat\Desktop\videoişleme\sahte_renklendirme\sahte_renklendirme\obj\Debug\sahte_renklendirme.pdb
